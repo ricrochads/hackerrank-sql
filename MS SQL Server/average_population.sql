@@ -1,0 +1,2 @@
+SELECT AVG(POPULATION) AS AveragePopulation
+FROM CITY;
