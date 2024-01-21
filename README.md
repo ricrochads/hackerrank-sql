@@ -4,8 +4,17 @@
 
 | Problem Name | Difficulty | Skills | Problem Link | Solution |
 | :-: | :-: |:-:| :-: | :-: |
+Average Population | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/average-population/problem) | [View Solution]()
+Employee Names | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [View Solution]()
+Employee Salaries | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [View Solution]()
+Higher Than 75 Marks | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [View Solution]()
+Japan Population | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/japan-population/problem) | [View Solution]()
+Japanese Cities' Attributes | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [View Solution]()
+Japanese Cities' Names | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [View Solution]()
 Revising the Select Query I | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem)| [View Solution](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/revising_the_select_query_i.sql)
 Revising the Select Query II | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [View Solution](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/revising_the_select_query_ii.sql)
+Select All | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [View Solution]()
+Select By ID | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [View Solution]()
 Weather Observation Station 1 | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [View Solution]()
 Weather Observation Station 2 | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [View Solution]()
 Weather Observation Station 3 | Easy | SQL (Basic) | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [View Solution]()
