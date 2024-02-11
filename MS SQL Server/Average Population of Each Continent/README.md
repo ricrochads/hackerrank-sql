@@ -48,4 +48,4 @@ CODE2 | VARCHAR2(2)
 
 ## Solution File
 
-- [average_population_of_each_continent.sql](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/average_population_of_each_continent.sql)
+- [average_population_of_each_continent.sql](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/Average%20Population%20of%20Each%20Continent/average_population_of_each_continent.sql)
