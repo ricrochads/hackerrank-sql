@@ -1,14 +1,16 @@
-Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is 'Africa'.
+# African Cities
 
-Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+Given the **CITY** and **COUNTRY** tables, query the names of all cities where the CONTINENT is 'Africa'.
 
-Input Format
+**Note:** CITY.CountryCode and COUNTRY.Code are matching key columns.
 
-The CITY and COUNTRY tables are described as follows:
+**Input Format**
+
+The **CITY** and **COUNTRY** tables are described as follows:
 
 #### CITY
 | Field | Type |
-| :-: | :-: |
+| :- | :- |
 ID | NUMBER |
 NAME | VARCHAR2(17)
 COUNTRYCODE | VARCHAR2(3)
@@ -18,7 +20,7 @@ POPULATION | NUMBER
 
 #### COUNTRY
 | Field | Type |
-| :-: | :-: |
+| :- | :- |
 CODE | VARCHAR2(3) 
 NAME | VARCHAR2(44) 
 CONTINENT | VARCHAR2(13)
@@ -34,3 +36,16 @@ GOVERNMENTFORM | VARCHAR2(44)
 HEADOFSTATE | VARCHAR2(32)
 CAPITAL | VARCHAR2(4)
 CODE2 | VARCHAR2(2)
+
+## Problem Information
+
+- *Website:* [HackerRank](https://www.hackerrank.com/)
+- *Problem Link:* [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)
+- *Difficulty:* Easy
+- *Skills:* SQL (Basic)
+- *Subdomains:* Basic Join
+- *Max Score:* 10
+
+## Solution File
+
+- [african_cities.sql](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/African%20Cities/african_cities.sql)
