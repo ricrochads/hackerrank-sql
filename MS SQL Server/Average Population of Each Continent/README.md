@@ -6,7 +6,7 @@ Given the **CITY** and **COUNTRY** tables, query the names of all the continents
 
 **Input Format**
 
-The CITY and COUNTRY tables are described as follows:
+The **CITY** and **COUNTRY** tables are described as follows:
 
 #### CITY
 | Field | Type |
