@@ -41,7 +41,7 @@ Inner: If node is neither root nor leaf node.
 
 The Binary Tree below illustrates the sample:
 
-![Binary Tree]()
+![Binary Tree](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/Binary%20Tree%20Nodes/binary_tree.png)
 
 ## Problem Information
 
@@ -54,4 +54,4 @@ The Binary Tree below illustrates the sample:
 
 ## Solution File
 
-- [binary_tree_nodes.sql]()
+- [binary_tree_nodes.sql](https://github.com/ricrochads/hackerrank-sql/blob/main/MS%20SQL%20Server/Binary%20Tree%20Nodes/binary_tree_nodes.sql)
