@@ -27,7 +27,7 @@ Inner: If node is neither root nor leaf node.
 
 **Sample Output**
 
-|       |
+| Expected |
 |:-------|
 | 1 Leaf |
 | 2 Inner |
