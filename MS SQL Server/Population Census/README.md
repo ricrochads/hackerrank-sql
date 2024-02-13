@@ -10,7 +10,7 @@ The **CITY** and **COUNTRY** tables are described as follows:
 
 #### CITY
 
-| Fild | Type |
+| Field | Type |
 | :- | :- |
 ID | NUMBER
 NAME | VARCHAR2(17)
@@ -20,7 +20,7 @@ POPULATION | NUMBER
 
 #### COUNTRY
 
-| Fild | Type |
+| Field | Type |
 | :- | :- |
 CODE | VARCHAR2(3)
 NAME | VARCHAR2(44)
