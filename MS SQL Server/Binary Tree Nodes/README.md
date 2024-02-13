@@ -27,15 +27,15 @@ Inner: If node is neither root nor leaf node.
 
 **Sample Output**
 
-| Expected |
-|:-------|
-| 1 Leaf |
-| 2 Inner |
-| 3 Leaf |
-| 5 Root |
-| 6 Leaf |
-| 8 Inner |
-| 9 Leaf |
+```
+1 Leaf
+2 Inner
+3 Leaf
+5 Root
+6 Leaf
+8 Inner
+9 Leaf
+```
 
 **Explanation**
 
