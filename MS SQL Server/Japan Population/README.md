@@ -8,7 +8,7 @@ The **CITY** table is described as follows:
 
 #### CITY
 
-| Fild | Type |
+| Field | Type |
 | :- | :- |
 ID | NUMBER
 NAME | VARCHAR2(17)
