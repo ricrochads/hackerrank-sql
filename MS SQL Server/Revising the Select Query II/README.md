@@ -25,4 +25,4 @@ POPULATION | NUMBER
 
 ## Solution File
 
-- [revising_the_select_query_iI.sql]()
+- [revising_the_select_query_ii.sql]()
