@@ -31,6 +31,7 @@ Explanation
 When ordered alphabetically, the **CITY** names are listed as **ABC**, **DEF**, **PQRS**, and **WXY**, with lengths 3, 3, 4 and 3. The longest name is **PQRS**, but there are 3 options for shortest named city. Choose **ABC**, because it comes first alphabetically.
 
 **Note**
+
 You can write two separate queries to get the desired output. It need not be a single query.
 
 ## Problem Information
@@ -44,4 +45,4 @@ You can write two separate queries to get the desired output. It need not be a s
 
 ## Solution File
 
-- [weather_observation_station_01.sql]()
+- [weather_observation_station_05.sql]()
