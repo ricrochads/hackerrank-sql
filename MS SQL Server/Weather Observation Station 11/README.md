@@ -4,7 +4,7 @@ Query the list of CITY names from **STATION** that either do not start with vowe
 
 **Input Format**
 
-The STATION table is described as follows:
+The **STATION** table is described as follows:
 
 #### STATION
 
